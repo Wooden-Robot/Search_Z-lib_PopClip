@@ -1,0 +1,21 @@
+{
+  "name": "Search Z-lib",
+  "icon": "Icon.png",
+  "options": [
+    {
+      "identifier": "domain",
+      "type": "string",
+      "label": "Z-lib Domain",
+      "description": "Please enter the Z-lib main domain (e.g. z-library.sk)",
+      "defaultValue": "z-library.sk"
+    }
+  ],
+  "actions": [
+    {
+      "title": "Z-lib",
+      "icon": "magnifyingglass",
+      "type": "url",
+      "url": "https://{popclip option domain}/s/{popclip text}"
+    }
+  ]
+}

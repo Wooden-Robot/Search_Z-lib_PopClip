@@ -1,25 +1,25 @@
-# 搜索 Z-lib 书籍的 PopClip 插件
+# PopClip Extension for Searching book from Z-lib  
 
-[English](https://github.com/Wooden-Robot/Search_Z-lib_PopClip/blob/main/README_en.md)
+[中文](/README_CN.md)  
 
-这是一个简单的 PopClip 插件，可以让您在 Mac 上直接搜索 Z-lib 书籍。只需选中要搜索的文本并触发插件，您无需复制粘贴即可快速查找结果。
+This is a simple PopClip extension that allows you to directly search Z-lib on your Mac. Simply select the text you want to search and trigger the extension, and you can quickly find the book results without the need for copying and pasting.  
 
-## 功能
+## Features  
 
-- 选中文本后，单击 `Z` 即可在 Z-lib 上搜索。
-- 在默认浏览器中打开搜索结果。
-- 快速高效的搜索体验。
+- Click to search on Z-lib after selecting text.  
+- Opens search results in the default browser.  
+- Fast and efficient search experience.  
 
-## 安装
+## Installation  
 
-1. 下载 [Search_Z-lib_Extension.popclipextz](https://github.com/Wooden-Robot/Search_Z-lib_PopClip/releases/download/v0.02/Search_Z-lib_Extension.popclipextz) 文件。
-2. 双击文件，安装该插件到 PopClip。
-3. 安装完成后，您可以在任何应用中选中文本，点击 PopClip 菜单中的 `Z` 按钮进行搜索。
+1. Download the [Search_Z-lib_Extension.popclipextz](https://github.com/Wooden-Robot/Search_Z-lib_PopClip/releases/download/v0.01/Search_Z-lib_Extension.popclipextz) file.  
+2. Double-click the file to install the extension into PopClip.  
+3. After installation, you can select text in any application and click the `Z` button in the PopClip menu to perform a search.  
 
-## 使用方法
+## Usage  
 
-只需在任何应用中选中文本，PopClip 菜单会弹出。点击 `Z` 按钮，即可打开您选中文本的书籍搜索结果。
+Simply select text in any application, and the PopClip menu will pop up. Click the `Z` button to open the search results for your selected text.  
 
-你也可以在 PopClip 的插件管理中更改 Z-lib 的主域名。
+You can also change the main domain of Z-lib in PopClip's plugin management.
 
 ![1.png](/images/1.png)

@@ -13,7 +13,6 @@
   "actions": [
     {
       "title": "Z-lib",
-      "icon": "magnifyingglass",
       "type": "url",
       "url": "https://{popclip option domain}/s/{popclip text}"
     }
